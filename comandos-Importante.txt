@@ -1,0 +1,21 @@
+npm run server :corre el backend
+npm start : carga el front end
+npm run cypress:open    carga cypress
+
+localhost:4200 carga la aplicacion
+
+ng test : corre lso test
+
+ng test --no-watch: corre los UT sin estar actualizando
+ng test --watch=false --code-coverage
+
+Toca meterse a powerShell como administrador (click derecho sobre inicio) y cambiar la politica de ejecucion
+Get-ExecutionPolicy 
+
+
+Set-ExecutionPolicy Unrestricted / Set-ExecutionPolicy Restricted
+
+
+
+///
+Para comentario de varias líneas Shift + Alt + A
